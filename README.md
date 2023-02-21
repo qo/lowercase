@@ -11,6 +11,8 @@ download and unzip this repo: https://github.com/qo/lowercase/archive/refs/heads
 
 run `lowercase.bat` and follow the instructions
 
+use right mouse button instead of ctrl+v, use arrow keys and enter key for language selection
+
 in case you're stuck: https://github.com/qo/lowercase/wiki/how-to-use
 
 ## how it works
