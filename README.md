@@ -9,7 +9,7 @@ click on the desired language
 
 put the downloaded file into `csgo/resource` folder
 
-make `-language <chosen_language>_lowercase` your csgo launch option 
+add `-language <chosen_language>_lowercase` to your csgo launch options
 
 (e.g. `-language english_lowercase` in case you downloaded english version)
 
