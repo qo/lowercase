@@ -3,45 +3,17 @@ csgo text mod that makes all the game text lowercase
 
 ## how to use
 
-open csgo folder via steam library
+run `lowercase.bat` and follow the instructions
 
-![image](https://user-images.githubusercontent.com/72982727/220288983-e3280b7a-7d59-4b01-9f55-8365e8959281.png)
-
-copy path from explorer window
-
-![image](https://user-images.githubusercontent.com/72982727/220289432-cef43f98-6ee7-43f9-80a9-b4fa7d164eb7.png)
-
-paste it 
-
-select csgo language (navigation: arrow keys and enter key)
-
-wait for script to do it's job
-
-open csgo properties
-
-![image](https://user-images.githubusercontent.com/72982727/220290036-ac42dff0-a6ce-4dad-a58f-83004899938b.png)
-
-in csgo launch options put "-language `csgolang`_lowercase" where `csgolang` is csgo language that you've chosen
-
-![image](https://user-images.githubusercontent.com/72982727/220290522-615f5e82-46cf-4126-afe4-459655a77320.png)
-
-in the example above, i've chosen english as `csgolang`
-
-open the game
+in case you're stuck: https://github.com/qo/lowercase/wiki/how-to-use
 
 ## how it works
 
-csgo\resource folder contains multiple files called csgo_`csgolang`.txt. each of them contains all the game text in `csgolang` language. for example, csgo_english.txt contains all the game text in english. 
-
-script copies all the text from csgo_`csgolang`.txt, makes it lowercase and creates csgo_`csgolang`_lowercase.txt file.
-
-providing language in launch options makes csgo take text from specified text file.
+https://github.com/qo/lowercase/wiki/how-it-works
 
 ## can i get banned for using it
 
 no, because it doesn't inject anything, just modifies game text files.
-
-another example of a text mod is text color mod by bananagaming (https://www.youtube.com/watch?v=fbNkI_M1byw).
 
 ## screenshots
 
