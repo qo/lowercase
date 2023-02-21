@@ -1,6 +1,12 @@
 # lowercase
 csgo text mod that makes all the game text lowercase
 
+## how to install
+
+install node: https://nodejs.org/en/download/
+
+download and unzip this repo: https://github.com/qo/lowercase/archive/refs/heads/main.zip
+
 ## how to use
 
 run `lowercase.bat` and follow the instructions
