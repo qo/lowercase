@@ -15,7 +15,7 @@ add `-language <chosen_language>_lowercase` to your csgo launch options
 
 # how to use (for devs)
 
-go to [wiki](https://github.com/qo/lowercase/wiki/wiki)
+go to [wiki](https://github.com/qo/lowercase/wiki/)
 
 # can i get banned for using it
 
