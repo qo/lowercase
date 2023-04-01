@@ -1,7 +1,8 @@
 # lowercase
+
 csgo text mod that makes all the game text lowercase
 
-# how to use (for end users)
+# how to use
 
 go to [releases tab](https://github.com/qo/lowercase/releases/tag/release)
 
@@ -12,14 +13,6 @@ put the downloaded file into `csgo/resource` folder
 add `-language <chosen_language>_lowercase` to your csgo launch options
 
 (e.g. `-language english_lowercase` in case you downloaded english version)
-
-# how to use (for devs)
-
-go to [wiki](https://github.com/qo/lowercase/wiki/)
-
-# can i get banned for using it
-
-no, because it doesn't inject anything, just modifies game text files
  
 # screenshots
 
@@ -38,3 +31,21 @@ no, because it doesn't inject anything, just modifies game text files
 ![20230221110804_1](https://user-images.githubusercontent.com/72982727/220286635-c566a366-3979-4d4c-92a8-1d4ed02c232a.jpg)
 ![20230221110818_1](https://user-images.githubusercontent.com/72982727/220286644-fec0c07c-cb77-44e7-9de8-a75f04af3090.jpg)
 ![20230221110829_1](https://user-images.githubusercontent.com/72982727/220286665-90f68509-842f-4535-879b-9307ed562c4d.jpg)
+
+# can i get banned for using it
+
+no; it doesn't inject anything, just modifies game text files
+
+# how to use (for devs)
+
+go to [wiki](https://github.com/qo/lowercase/wiki/)
+
+# known issues 
+
+in the xp bar the word "xp" is not displayed
+
+(e.g. `12345 XP` turns to `12345`)
+
+the star in knife names is not displayed
+
+(e.g. `★ Karambit` turns to `karambit`)
