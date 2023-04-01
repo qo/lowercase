@@ -1,18 +1,6 @@
 # lowercase
 
 csgo text mod that makes all the game text lowercase
-
-# how to use
-
-go to [releases tab](https://github.com/qo/lowercase/releases/tag/release)
-
-click on the desired language
-
-put the downloaded file into `csgo/resource` folder
-
-add `-language <chosen_language>_lowercase` to your csgo launch options
-
-(e.g. `-language english_lowercase` in case you downloaded english version)
  
 # screenshots
 
@@ -35,6 +23,18 @@ add `-language <chosen_language>_lowercase` to your csgo launch options
   <img src="https://user-images.githubusercontent.com/72982727/220286644-fec0c07c-cb77-44e7-9de8-a75f04af3090.jpg">
   <img src="https://user-images.githubusercontent.com/72982727/220286665-90f68509-842f-4535-879b-9307ed562c4d.jpg">
 </details>
+
+# how to use
+
+go to [releases tab](https://github.com/qo/lowercase/releases/tag/release)
+
+click on the desired language
+
+put the downloaded file into `csgo/resource` folder
+
+add `-language <chosen_language>_lowercase` to your csgo launch options
+
+(e.g. `-language english_lowercase` in case you downloaded english version)
 
 # can i get banned for using it
 
